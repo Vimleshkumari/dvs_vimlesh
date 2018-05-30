@@ -1,0 +1,18 @@
+def addition(a,b):
+return a+b
+def substraction(a,b):
+return a-b
+def multiply(a,b):
+return a*b
+def division(a,b):
+return a/b
+def modolus(a,b):
+return a%b
+num1=int("print first no")
+num2=int("print second no") 
+print(num1,"+",num2,"=", add(num1,num2))
+print(num1,"-",num2,"=", substraction(num1,num2))
+print(num1,"*",num2,"=", multiply(num1,num2))
+print(num1,"/",num2,"=", division(num1,num2))
+print(num1,"%",num2,"=", modolus(num1,num2))
+

@@ -1,0 +1,9 @@
+restore database->locate bakp file->select file->chose file
+--3rd case
+c drive -program file-microsoft sql server-mysqlserver-mysql-data
+1,copy the database in pd
+tasbar-services-sql server-stop services-sql
+copy database on desktop.
+--to restore
+start sql services-sqldatabase-rit clik-attach-file name-add
+copy -rite clik-add
